@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+*.ini
+*.bin
+GameJam1/Saved/Crashes/UE4CC-Windows-400A5D9E493CD7A37571F6B9B4855D64_0000/CrashContext.runtime-xml
+*.dmp
+*.json
+*.png
